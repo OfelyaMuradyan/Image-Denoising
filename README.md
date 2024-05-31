@@ -10,7 +10,6 @@ This project demonstrates various image denoising techniques applied to an image
 - [Denoising Techniques](#denoising-techniques)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Results](#results)
-- [References](#references)
 
 ## Introduction
 
@@ -66,15 +65,3 @@ img <- readJPEG("~/Desktop/Image Denoising/msg1861748956-131791.jpg")
 ## Results
 
 The script prints the MSE, PSNR, and SNR values for each denoising technique, providing an objective measure of their performance.
-
-## References
-
-- [Gaussian Noise](https://en.wikipedia.org/wiki/Gaussian_noise)
-- [Salt and Pepper Noise](https://en.wikipedia.org/wiki/Salt-and-pepper_noise)
-- [Poisson Noise](https://en.wikipedia.org/wiki/Shot_noise)
-- [Gaussian Filter](https://en.wikipedia.org/wiki/Gaussian_blur)
-- [Mean Filter](https://en.wikipedia.org/wiki/Mean_filter)
-- [Median Filter](https://en.wikipedia.org/wiki/Median_filter)
-- [Mean Squared Error](https://en.wikipedia.org/wiki/Mean_squared_error)
-- [Peak Signal-to-Noise Ratio](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio)
-- [Signal-to-Noise Ratio](https://en.wikipedia.org/wiki/Signal-to-noise_ratio)
