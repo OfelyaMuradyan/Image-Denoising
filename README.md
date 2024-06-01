@@ -65,3 +65,11 @@ img <- readJPEG("~/Desktop/Image Denoising/msg1861748956-131791.jpg")
 ## Results
 
 The script prints the MSE, PSNR, and SNR values for each denoising technique, providing an objective measure of their performance.
+
+## Contributors
+
+Thanks to the following people who have contributed to this project:
+
+- **Melkonyan Simon** 
+- **Mkrtchyan Narek** 
+- **Aghayan Zhenya** 
