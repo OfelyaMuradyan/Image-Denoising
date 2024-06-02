@@ -71,5 +71,5 @@ The script prints the MSE, PSNR, and SNR values for each denoising technique, pr
 The following people who have also contributed to this project:
 
 - **Melkonyan Simon** 
-- **Mkrtchyan Narek** - [@narek](https://github.com/narekmkrtchyan11)
+- **Mkrtchyan Narek** - [@Narek](https://github.com/narekmkrtchyan11)
 - **Aghayan Zhenya** 
